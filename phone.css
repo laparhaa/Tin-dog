@@ -1,0 +1,48 @@
+
+.navbar{
+    padding-bottom: .5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: "ubantu montserrat-Black";
+    font-size: 2.3rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gplay{
+    /* border: solid white; */
+    border-radius: 4px;
+    margin: 2% 0% 5% 0%;
+}
+.apple{
+    /* border: solid white; */
+    border-radius: 4px;
+    margin: 2% 3% 5% 0%;
+}
+
+.arr{
+    padding-top: 10%;
+}
+
+.arr img{
+    width: 43%;
+    height: auto;
+}
+
+.icon{
+
+    align-items: center;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
